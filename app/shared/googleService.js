@@ -1,7 +1,7 @@
 (function() {
   'use strict';
 
-  var CLIENT_ID = '608120956255-0me03edqv60mf1eilgdjoum9qcmv4deq.apps.googleusercontent.com';
+  var CLIENT_ID = '81473184921-5e3a9hb5rai68b1l34ras3fffvotoinn.apps.googleusercontent.com';
   var SCOPES = [
         'https://www.googleapis.com/auth/drive',
         'https://www.googleapis.com/auth/drive.file',

@@ -1,0 +1,6 @@
+{
+    "directory": "./bower_components",
+	"proxy":"http://uk-webproxy.edmz.tesco.org:80",
+	"https-proxy":"http://uk-webproxy.edmz.tesco.org:80",
+	"strict-ssl": false
+}
