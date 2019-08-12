@@ -118,6 +118,10 @@
         name: 'Remove',
         icon: 'delete',
         enabled: true
+      },{
+        name: 'Download',
+        icon: 'download',
+        enabled: true
       }];
 
       self.loaded = false;
